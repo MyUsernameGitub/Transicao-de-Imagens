@@ -11,7 +11,7 @@ body{
     font-size: 40px;
     text-align: center;
     color: rgb(69, 67, 67);
-    width: 380px;
+    width: 750px;
     /* box-shadow: 5px 3px 5px 5px gray; */
     margin: 30px auto;
     background-color: white;
@@ -77,11 +77,11 @@ body{
 }
 
 .texto:hover, .titulo:hover {
-    background-color: rgb(240, 233, 233);
+    background-color: rgb(247, 241, 241);
    
 }
 
 .palavra:hover, .titulo:hover{
-    box-shadow: 2px 2px 4px 2px gray;
+    box-shadow: 2px 2px 4px 2px rgb(89, 87, 87);
 }
 
